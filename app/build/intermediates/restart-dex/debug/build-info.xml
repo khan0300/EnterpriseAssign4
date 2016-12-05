@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="600780496067825"
+    token="-8713629610997572946"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="775" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="38" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="C:\Users\Ammar\AndroidStudioProjects\restfulCachingProviderContacts\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="600118147144091"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Ammar\AndroidStudioProjects\restfulCachingProviderContacts\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="600780496067825"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Ammar\AndroidStudioProjects\restfulCachingProviderContacts\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Mon Dec 05 11:53:19 EST 2016
+base.0=C\:\\Users\\Ammar\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ecac5e84034ad94eb4c085ac5f7238c2f3c17508
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Ammar\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_083fa29ac91060ba6d4c222e9cfdf4c3da373503\\classes.dex
+base.1=C\:\\Users\\Ammar\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_083fa29ac91060ba6d4c222e9cfdf4c3da373503
+file.0=C\:\\Users\\Ammar\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ecac5e84034ad94eb4c085ac5f7238c2f3c17508\\classes.dex
